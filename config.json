@@ -1,0 +1,13 @@
+{
+    "secretName": "acme",
+    "secretNamespace": "default",
+    "acmeEmail":  "acme@epurs.com",
+    "acmeDomains": [
+        "*.k.epurs.com",
+        "niml.ml",
+        "*.niml.ml"
+    ],
+    "kubeconfig": "",
+    "lego_args": ""
+}
+
